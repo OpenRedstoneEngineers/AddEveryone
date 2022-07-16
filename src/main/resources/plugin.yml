@@ -1,0 +1,5 @@
+name: AddEveryone
+version: 1.0
+main: AddEveryone
+api-version: 1.16
+depend: [PlotSquared]
